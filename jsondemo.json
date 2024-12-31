@@ -1,0 +1,12 @@
+[
+  {
+    "Id": 1,
+    "Name": "John",
+    "Address": "123 street gandhi bazar"
+  },
+  {
+    "Id": 2,
+    "Name": "Jane",
+    "Address": "146 north side road"
+  }
+]
