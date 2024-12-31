@@ -6,9 +6,11 @@ namespace CsvAndJson_FileIo
     {
         static void Main(string[] args)
         {
-          //  CsvDemo.CsvWriteDemo();
+            //  CsvDemo.CsvWriteDemo();
+            //  CsvDemo.CsvReadDemo();
+            //  JsonDemo.JsonWriteIntoFile();
+            JsonDemo.JsonReadFromFile();
 
-            CsvDemo.CsvReadDemo();
         }
     }
 }
